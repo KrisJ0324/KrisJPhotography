@@ -1,0 +1,194 @@
+.navbar {
+  background: transparent;
+}
+
+.bodyHome {
+  background-color: black;
+}
+
+.navbar-Brand {
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-shadow: 1px 1px black;
+  color: white;
+}
+
+.navItemSpacing {
+  padding-right: 25px;
+}
+
+.headerImage {
+  width: 100%;
+}
+
+.navBarTextColor .nav-link .navbar-light {
+  color: white;
+}
+
+.containerHeader {
+  position: relative;
+  padding-bottom: 500px;
+}
+
+.boxHeader {
+  position: absolute;
+}
+
+.kJImage {
+  float: right;
+  padding-left: 12%;
+  padding-right: 15%;
+  padding-bottom: 10%;
+
+}
+
+.aboutBody {
+  background-image: url("images/backgroundImg.png");
+}
+
+.aboutMeHeader {
+  text-align: center;
+  color: white;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  font-size: 6rem;
+  font-family: 'Great Vibes', cursive;
+}
+
+.aboutMeText {
+  color: white;
+  padding-left: 17%;
+  padding-top: 3%;
+  font-family: 'Merriweather', serif;
+  font-size: .90rem;
+}
+
+.divMargin {
+  padding-top: 25px;
+  padding-bottom: 150px;
+}
+
+.servicesPage {
+  background-color: white;
+  text-align: center;
+}
+
+.servicesHeader {
+  color: black;
+  font-size: 2rem;
+  font-family: 'Merriweather', serif;
+  padding-top: 80px;
+}
+
+.servicesImage{
+  width: 100%;
+}
+
+.footerDesign {
+  background-color: black;
+  padding-top: 100px;
+  padding-bottom: 25px;
+  color: white;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.footerHeader {
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+
+.socialMediaIcon {
+  padding: 50px 25px;
+}
+
+.footerText {
+  font-size: .8rem
+}
+
+.myFooter {
+  font-size: .5rem;
+  text-align: center;
+}
+
+.photoGallery {
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.photoGalleryHeader {
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-family: 'Zen Antique Soft', serif;
+  font-size: 3rem;
+}
+
+.photoGalleryImage {
+  width: 75%;
+  padding-top: 50px;
+
+}
+
+.videoEdit {
+  text-align: center;
+}
+
+.videoHeader {
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-family: 'Zen Antique Soft', serif;
+  font-size: 3rem;
+}
+
+.videoText {
+  color: white;
+  text-align: left;
+  padding: 2% 35% 3% 35%;
+  font-size: .7rem;
+}
+
+.lastVideo {
+  padding-bottom: 10%;
+}
+
+.logoDesign {
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.logoHeader {
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-family: 'Zen Antique Soft', serif;
+  font-size: 3rem;
+}
+
+.logoImage {
+  width: 20%;
+}
+
+.logoImage1 {
+  padding-top: 50px;
+  width: 50%;
+}
+
+.socMed {
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.socMedHeader {
+  color: white;
+  padding-top: 100px;
+  font-family: 'Zen Antique Soft', serif;
+  font-size: 3rem;
+}
+
+.socMedImage {
+  width: 50%;
+  padding-top: 50px;
+}
